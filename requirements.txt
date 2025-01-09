@@ -85,7 +85,7 @@ python-dotenv==1.0.1
 pytz==2024.2
 pydantic_core
 pydeck
-PyYAML==6.0.2
+PyYAML>=3.12,<4.0
 pyzmq==26.1.0
 referencing==0.35.1
 requests==2.32.3
