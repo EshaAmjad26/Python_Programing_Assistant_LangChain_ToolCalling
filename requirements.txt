@@ -83,7 +83,8 @@ pyparsing==3.2.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.2
-pywin32==306
+pydantic_core
+pydeck
 PyYAML==6.0.2
 pyzmq==26.1.0
 referencing==0.35.1
